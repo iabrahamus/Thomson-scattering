@@ -1,0 +1,14 @@
+8.00E+02	Wavelength_(nm)_VAR_W_LENGTH
+3.3E+01 	Fnumber_VAR_FNUM
+2.0E+16 	Intensity_(W/cm^2)_VAR_I_Wcm2
+25.0E+01	Pulse_duration_(fs)_VAR_T0_fs
+1.80E+02	Interaction_angle_(degrees)_VAR_INT_ANG_DEG
+0.00E+00	start_polar_angle_mrad_VAR_THETA_e_START
+0.0E+00	        End_polar_angle_mrad_VAR_THETA_e_END
+1.00000 	Number_of_polar_angles_VAR_NTHETA
+0.00E+0 	staring_phi_deg_VAR_phi_e_start_deg
+0.00E+00	ending_phi_deg_VAR_phi_e_end_deg
+1.000000	Number_azimuthal_angles_VAR_NPHI
+1.00E+00	STARTING_FREQUENCY_index_VAR_START_FREQ_ITER
+4.00E+03	Number_of_frequencies_VAR_NUMF
+0.00E+00	non_paraxial_1.0_if_yes_VAR_np
