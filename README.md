@@ -5,3 +5,4 @@ This project simulates the scattering of high energy photons from non-linear Tho
 
 ### Project content instructions
 [Detailed instructions on how to use the Thomson simulation code](How%20to%20use%20the%20Thomson%20Code.pdf)<br>
+[laser parameters and the interaction geometry is adjusted by user through 'parameters.dat' file](parameters.dat)<br>
