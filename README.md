@@ -11,7 +11,7 @@ This project simulates the scattering of high energy photons from non-linear Tho
 [Python script to create Pegasus Workflow to distribute jobs to required cluster nodes](setup_job.py)<br>
 [Main laser-electron interaction code is](Spectra.f)<br>
 
-### Publications 
+### Some publications as a result of the Thomson project 
 
 1. https://journals.aps.org/prab/pdf/10.1103/PhysRevSTAB.16.030705 (Isaac Ghebregziabher et al)
 2. https://www.nature.com/articles/nphoton.2013.314 (Nathan Powers, Isaac Ghebregziabher, Gregory Goloving et al)
