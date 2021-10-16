@@ -6,3 +6,12 @@ This project simulates the scattering of high energy photons from non-linear Tho
 ### Project content instructions
 [Detailed instructions on how to use the Thomson simulation code](How%20to%20use%20the%20Thomson%20Code.pdf)<br>
 [laser parameters and the interaction geometry is adjusted by user through 'parameters.dat' file](parameters.dat)<br>
+[The six dimensional phase space of the electron beam is initialized through (x,y,z,px,py,pz) 'ephase_space.dat' file](ephase_space.dat)<br>
+[Use MakeFile to create required executables in workding directory](Makefile)<br>
+[Python script to create Pegasus Workflow to distribute jobs to required cluster nodes](setup_job.py)<br>
+[Main laser-electron interaction code is](Spectra.f)<br>
+
+### Publications 
+
+1. https://journals.aps.org/prab/pdf/10.1103/PhysRevSTAB.16.030705 (Isaac Ghebregziabher et al)
+2. https://www.nature.com/articles/nphoton.2013.314 (Nathan Powers, Isaac Ghebregziabher, Gregory Goloving et al)
