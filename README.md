@@ -1,7 +1,7 @@
 # Thomson-scattering
 ## Relativistic high-intensity laser electron scattering
 
-THIS PROGRAM SIMULATES THE SCATTERING OF HIGH ENERGY PHOTONS FROM  NON-LINEAR THOMSON SCATTERING: THE INTERACTION OF A FREE AND HIGHLY  RELATIVISTIC ELECTRON WITH A REALISTIC 3-DIMENSONAL LASER FIELD. THE LASER FIELD CAN BE CALCULATED PARAXIALLY BY SETTING eps = 0 or non-paraxially upto 5th non-paraxial order.
+This project simulates the scattering of high energy photons from non-linear Thomson scattering. The interaction of a free and highly relativsitic electron beam with a realistic 3-dimensional laser field is simulated. In the code the user is provided with alternatives of using the paraxial approximation for calculating fields in the laser beam or calculate laser field parameters with accuracy as high as the 5th order non-paraxial correction term. 
 
 ### Project content instructions
 [Detailed instructions on how to use the Thomson simulation code](How%20to%20use%20the%20Thomson%20Code.pdf)<br>
